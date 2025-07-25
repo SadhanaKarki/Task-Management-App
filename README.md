@@ -15,15 +15,15 @@ Task Management App
 6. Run `flutter run` to start the app 
 
 Dependencies Involved:
-  flutter_bloc: ^8.1.4
-  equatable: ^2.0.5
-  intl: ^0.19.0
-  path_provider: ^2.1.2
-  json_annotation: ^4.8.1
-  uuid: ^4.3.3
+1. flutter_bloc: ^8.1.4
+2. equatable: ^2.0.5
+3. intl: ^0.19.0
+4. path_provider: ^2.1.2
+5. json_annotation: ^4.8.1
+6. uuid: ^4.3.3
 
 Dev Dependencies Involved:
-  build_runner: ^2.4.8
-  json_serializable: ^6.7.1
+1. build_runner: ^2.4.8
+2. json_serializable: ^6.7.1
 
 To install these you can simply run `flutter pub get` after cloning the project or you can manually add them by searching these packages along with version on pub.dev and add them to the pubspec.yaml file.
