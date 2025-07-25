@@ -105,7 +105,7 @@ class _TaskColumnState extends State<TaskColumn> {
                         padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
                         decoration: BoxDecoration(
                           color: _isSortedByDeadline || _isSortedByPriority
-                              ? Colors.white.withAlpha(52)
+                              ? Colors.white.withAlpha(51)
                               : Colors.transparent,
                           borderRadius: BorderRadius.circular(4),
                         ),
